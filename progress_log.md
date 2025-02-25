@@ -1,4 +1,4 @@
-# Cheminformatics Learning Progress
+# Bioinformatics Learning Progress
 
 ## February 23, 2025
 ### Completed Today:
